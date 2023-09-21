@@ -1,0 +1,21 @@
+working---->staging--->local repo----> remote repo
+git status--> shows status of the files being tracked and changes in file
+working to staging
+git add . ---> add all files
+git add filename---> add one file
+git commit -m "added"
+git diff filename----> difference b/w working and staging
+copy 3 commands from git hub
+
+
+
+git log---> to see all commits
+git SHOW HEAD ---->to see latest commit
+
+making working directory as local repo
+git checkout HEAD filename
+
+making staging as local repo
+git reset HEAD filename
+
+remove the commit---> git reset 7SH
